@@ -4,5 +4,7 @@
 
 \##实验1
 
-创建HelloWorld程序
+\-创建HelloWorld程序。
+
+\-使用input函数实现键盘输入，并显示输入内容。
 
